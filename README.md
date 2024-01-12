@@ -89,9 +89,6 @@ The Project is created with:
 
 To clone and run this application, you'll need to first have Git and Node.js (npm) installed on your computer. From your command line type the following:
 
-## Clone this repository
-
-$ git clone https://github.com/OsmanNasirdeen/Devjobs
 
 ## Go into the repository
 
@@ -133,9 +130,6 @@ The server is built using the following technologies:
 - node js
 - express
 - json data
-
-`To learn more about the server`:
-[Visit Server Github Repo](https://github.com/OsmanNasirdeen/devjobs-server)
 
 [Back To The Top](#devjobs-web-app)
 
@@ -181,23 +175,14 @@ const certainCategoryData = fetch(
 
 ---
 
-# Project Status
 
-Project is: completed
-
----
-
-# License
-
-MIT License
-
-Copyright (c) [2023] AmaliTech
-
----
 
 # Author
 
-- LinkedIn - [Osman Nasirdeen](https://www.linkedin.com/in/osman-nasirdeen/)
-- Github - [OsmanNasirdeen](https://github.com/OsmanNasirdeen)
+- Github - [PrasannArora](https://github.com/PrasannArora)
+- Github - [KomalGangwar](https://github.com/KomalGangwar)
+- Github - [Harsh](https://github.com/harshkatariya18)
+- Github - [KamleshGangwar](https://github.com/kamleshgangwar)
+  
 
 [Back To The Top](#devjobs-web-app)
