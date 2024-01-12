@@ -16,8 +16,6 @@
 - [Screenshots](#screenshots)
 - [Setup](#setup)
 - [How To Use](#how-to-use)
-- [Project Status](#project-status)
-- [License](#license)
 - [Author](#author)
 
 ---
